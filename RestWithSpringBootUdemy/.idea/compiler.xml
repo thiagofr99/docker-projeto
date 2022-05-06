@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="14 RestWithSpringBootUdemy - Path" />
+        <module name="01 RestWithSpringBootUdemy Sacffold Intellij" />
+        <module name="04 RestWithSpringBootUdemy" />
+        <module name="13 RestWithSpringBootUdemy - Autenticação (JWT e Spring Security)" />
+        <module name="11 RestWithSpringBootUdemy - Desafio" />
+        <module name="09 RestWithSpringBootUdemy - Hateoas" />
+        <module name="02 RestWithSpringBootUdemy Calculator" />
+        <module name="07 RestWithSpringBootUdemy - Custom Json Serialization" />
+        <module name="12 RestWithSpringBootUdemy - CORS" />
+        <module name="08 RestWithSpringBootUdemy - Content Negotiation" />
+        <module name="06 RestWithSpringBootUdemy - Migrations" />
+        <module name="04 RestWithSpringBootUdemy - Dozer Converter (VO)" />
+        <module name="03 RestWithSpringBootUdemy" />
+        <module name="16 RestWithSpringBootUdemy - Upload e Download" />
+        <module name="15 RestWithSpringBootUdemy - Busca Paginada" />
+        <module name="10 RestWithSpringBootUdemy - Swagger" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="01 RestWithSpringBootUdemy Sacffold Intellij" options="-parameters" />
+      <module name="02 RestWithSpringBootUdemy Calculator" options="-parameters" />
+      <module name="03 RestWithSpringBootUdemy" options="-parameters" />
+      <module name="04 RestWithSpringBootUdemy" options="-parameters" />
+      <module name="04 RestWithSpringBootUdemy - Dozer Converter (VO)" options="-parameters" />
+      <module name="06 RestWithSpringBootUdemy - Migrations" options="-parameters" />
+      <module name="07 RestWithSpringBootUdemy - Custom Json Serialization" options="-parameters" />
+      <module name="08 RestWithSpringBootUdemy - Content Negotiation" options="-parameters" />
+      <module name="09 RestWithSpringBootUdemy - Hateoas" options="-parameters" />
+      <module name="10 RestWithSpringBootUdemy - Swagger" options="-parameters" />
+      <module name="11 RestWithSpringBootUdemy - Desafio" options="-parameters" />
+      <module name="12 RestWithSpringBootUdemy - CORS" options="-parameters" />
+      <module name="13 RestWithSpringBootUdemy - Autenticação (JWT e Spring Security)" options="-parameters" />
+      <module name="14 RestWithSpringBootUdemy - Path" options="-parameters" />
+      <module name="15 RestWithSpringBootUdemy - Busca Paginada" options="-parameters" />
+      <module name="16 RestWithSpringBootUdemy - Upload e Download" options="-parameters" />
+    </option>
+  </component>
+</project>

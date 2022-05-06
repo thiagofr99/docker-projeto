@@ -1,0 +1,9 @@
+/RestWithSpringBootUdemy/src/test/java/com/devthiagofurtado/controller/PersonControllerTest.java
+/RestWithSpringBootUdemy/src/test/java/com/devthiagofurtado/converter/DozerConverterTest.java
+/RestWithSpringBootUdemy/src/test/java/com/devthiagofurtado/converter/mocks/MockPerson.java
+/RestWithSpringBootUdemy/src/test/java/com/devthiagofurtado/creator/PersonCreator.java
+/RestWithSpringBootUdemy/src/test/java/com/devthiagofurtado/service/BookServiceTest.java
+/RestWithSpringBootUdemy/src/test/java/com/devthiagofurtado/creator/BookCreator.java
+/RestWithSpringBootUdemy/src/test/java/com/devthiagofurtado/creator/json/BooksVOJsonTest.java
+/RestWithSpringBootUdemy/src/test/java/com/devthiagofurtado/service/PersonServiceTest.java
+/RestWithSpringBootUdemy/src/test/java/com/devthiagofurtado/controller/BookControllerTest.java

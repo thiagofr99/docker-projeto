@@ -1,0 +1,10 @@
+com/devthiagofurtado/converter/DozerConverterTest.class
+com/devthiagofurtado/service/PersonServiceTest.class
+com/devthiagofurtado/controller/PersonControllerTest.class
+com/devthiagofurtado/service/BookServiceTest.class
+com/devthiagofurtado/creator/BookCreator.class
+com/devthiagofurtado/creator/json/BooksVOJsonTest.class
+com/devthiagofurtado/converter/mocks/MockPerson.class
+com/devthiagofurtado/creator/json/BooksVOJsonTest$BooksVOJsonTestBuilder.class
+com/devthiagofurtado/creator/PersonCreator.class
+com/devthiagofurtado/controller/BookControllerTest.class
